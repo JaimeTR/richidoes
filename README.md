@@ -11,7 +11,7 @@
 
 ### Contacta conmigo:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-deleon/)
+[![Linkedin Badge](https://img.shields.io/badge/-ricardo-deleon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-deleon/)
 
 <br />
 
