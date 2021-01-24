@@ -1,18 +1,17 @@
-### Que tal, soy Ricardo De Leon - alias [richidoes][website] 👋
-
-[![Website](https://img.shields.io/website?label=ricardodeleon.net&style=for-the-badge&url=https%3A%2F%2Fricardodeleon.net)](https://www.ricardodeleon.net)
+### Que tal, soy Ricardo De Leon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## Soy un apasionado desarrollador frontend autodidacta!!
 
+- :computer: Puedes ver mi portafolio en [Mi web][website].
 - 🌱 Actualmente estoy aprendiendo diseño de sistemas.
 - 🥅 Objetivos 2021: Desarrollar las mejores aplicaciones web.
 - 👯 Busco colaborar con empresas o en proyectos comerciales.
+- :paperclip: [Mi Resumen/CV](https://drive.google.com/uc?export=download&id=10i_rf26T88Jcb-A7MfqcMxuDsnZQpXeI)
 - ⚡ Dato curioso: me encantan los deportes y los videojuegos.
 
 ### Contacta conmigo:
 
-[<img align="left" alt="ricardodeleon.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ricardo de leon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-deleon/)
 
 <br />
 
