@@ -6,12 +6,12 @@
 - 🌱 Actualmente estoy aprendiendo diseño de sistemas.
 - 🥅 Objetivos 2021: Desarrollar las mejores aplicaciones web.
 - 👯 Busco colaborar con empresas o en proyectos comerciales.
-- :paperclip: [Mi Resumen/CV](https://drive.google.com/uc?export=download&id=10i_rf26T88Jcb-A7MfqcMxuDsnZQpXeI)
+- :paperclip: [Mi Resumen/CV](https://drive.google.com/uc?export=download&id=10i_rf26T88Jcb-A7MfqcMxuDsnZQpXeI).
 - ⚡ Dato curioso: me encantan los deportes y los videojuegos.
 
 ### Contacta conmigo:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ricardo-deleon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-deleon/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ricardo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-deleon/)
 
 <br />
 
